@@ -1,0 +1,6 @@
+{
+  "name": "Azurita 3D",
+  "description": "Catálogo interactivo de Azurita 3D con carrito de compras, medios de pago, formas de entrega y confirmación de pedidos vía WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
